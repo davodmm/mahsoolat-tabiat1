@@ -206,6 +206,19 @@ div.text-center img.clients-thumb {
 	width: 200vw;
 }
 
+div.first-index-basalam img.first-index-basalam {
+	width: 25vw;
+	border-radius: 60%;
+	display: inline-block;
+}
+
+div.first-index-basalam {
+	border: 3px solid black;
+	border-radius: 40px;
+	margin: 4%;
+	padding: 3%;
+}
+
 @media (max-width: 991px)
 {
 
@@ -254,6 +267,10 @@ div.text-center img.clients-thumb {
 @media (max-width: 767px)
 {
 
+		div.first-index-basalam img.first-index-basalam {
+			width: 60vw;
+			border-radius: 30px;
+		}
 
 		img.pr-3 {
 			width: 30vw;
@@ -283,6 +300,15 @@ div.text-center img.clients-thumb {
 @media (max-width: 552px)
 {
 
+		.display1 {
+			display: block;
+			width: 40vw;
+		}
+
+		.display2 {
+			width: 35vw;
+		}
+
 		div.gggg {
 			width: 70vw;
 			font-size: 1rem;
@@ -294,7 +320,7 @@ div.text-center img.clients-thumb {
 		}
 
 		div.text-center img.clients-thumb {
-			width: 20vw;
+			width: 200vw;
 		}
 
 		img.fa {
