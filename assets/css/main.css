@@ -219,6 +219,12 @@ div.first-index-basalam {
 	padding: 3%;
 }
 
+div.gheimat {
+		border-radius: 10px;
+		border: 4px solid blue;
+}
+
+
 @media (max-width: 991px)
 {
 
@@ -299,6 +305,14 @@ div.first-index-basalam {
 
 @media (max-width: 552px)
 {
+
+
+		div.col-md-8 img.jkjkjkjk {
+			display: block;
+			width: 66vw;
+			margin: 0%;
+			margin-left: 0%;
+		}
 
 		.display1 {
 			display: block;
